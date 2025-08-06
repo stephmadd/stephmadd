@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm an aspiring Software Engineer passionate about programming and learning more about technology. <be><be>🔭 I’m currently working on improving my skills in web development and mobile development. 👯 I’m looking to collaborate on projects that solve real-world problems and benefit society.<br>
+👋 I'm an aspiring Software Engineer passionate about programming and learning more about technology. <br><br>🔭 I’m currently working on improving my skills in web development and mobile development. 👯 I’m looking to collaborate on projects that solve real-world problems and benefit society.<br>
 
 
 ## 🌐 Socials:
